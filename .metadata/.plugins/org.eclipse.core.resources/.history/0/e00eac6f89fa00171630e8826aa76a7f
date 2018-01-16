@@ -1,0 +1,20 @@
+package edu.fju.exam;
+
+public class Niner {
+
+	public static void main(String[] args) {
+		for(int k=0;k<5;k+=5);
+		for(int i=2;i<=5;i++){
+			
+			for(int j=2;j<=5;j++)
+				System.out.println(i + "*" + j + "=" + i*j + "\t");
+			System.out.println();
+			System.out.println();
+			
+			
+		}
+		
+
+	}
+
+}
